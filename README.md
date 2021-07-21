@@ -12,8 +12,10 @@ World wide status of the patients are displayed in the home view. To view the ca
 
 ## Preview
 <div align="center">
-    <img src="https://github.com/rakesh-gyawali/FooDonate_User/blob/master/screenshots/splash_screen_user.jpg" width="300px"</img> 
- 
+    <img src="https://github.com/rakesh-gyawali/Covid-19_Tracker_App/blob/master/screenshots/main.jpg" width="300px"</img> 
+    <img src="https://github.com/rakesh-gyawali/Covid-19_Tracker_App/blob/master/screenshots/search.jpg" width="300px"</img> 
+    <img src="https://github.com/rakesh-gyawali/Covid-19_Tracker_App/blob/master/screenshots/search_view.jpg" width="300px"</img> 
+    <img src="https://github.com/rakesh-gyawali/Covid-19_Tracker_App/blob/master/screenshots/result.jpg" width="300px"</img> 
 </div>
 
 ## Main features
